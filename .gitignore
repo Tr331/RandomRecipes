@@ -55,3 +55,6 @@ build/
 ### Mac OS ###
 .DS_Store
 >>>>>>> daaca2b (initial commit)
+
+# Ignore IntelliJ IDEA project files
+.idea/
