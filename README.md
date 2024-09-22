@@ -1,4 +1,4 @@
-#🍽️ Recipe Manager
+# Recipe Manager
 
 Welcome to the **Recipe Manager**! This project allows you to manage and explore a collection of recipes. You can add, retrieve a random recipe, view all saved recipes, and exit the program.
 
@@ -63,5 +63,4 @@ Select option `4` to exit the program.
 
 This project is licensed under the MIT License.
 ```
-
 You can customize this file according to your specific needs and project details! Let me know if you want to add more.
